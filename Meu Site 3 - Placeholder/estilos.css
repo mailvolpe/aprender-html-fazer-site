@@ -1,0 +1,26 @@
+.secao{
+	padding:30px;
+}
+
+.cabecalho, .ir-alem{
+	background-color: #eee;
+	
+}
+.cadastro, .metodo{
+	background-color: #ddd;
+
+}
+.beneficios{
+	background-color: #ccc;
+
+}
+body{
+	/*
+	color:#1d708a; 
+	font-family:sans-serif;
+	*/
+}
+.conteudo{
+	/* max-width:600px; */ 
+	/* margin:auto; */
+}

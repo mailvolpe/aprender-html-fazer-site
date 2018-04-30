@@ -1,0 +1,57 @@
+.rodape a{
+	color:#777;
+}
+
+.rodape{
+	background-color: #222;
+	color:#999;
+	padding:15px;
+}
+
+.ir-alem img{
+	max-width: 120px;
+}
+
+.secao{
+	padding:30px;
+	font-size:19px;
+	color:#444;
+}
+
+.cabecalho, .ir-alem{
+	background-color: #eee;
+	
+}
+.cadastro{
+	background-color: #ddd;
+
+}
+
+.metodo{
+	background-image: url('img/world.jpg');
+	padding:80px;
+	background-position: center center;
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	margin:60px 0 60px 0;
+}
+
+.beneficios{
+	background-color: #ccc;
+
+}
+
+.sobre-mim{
+	background-color:#242424;
+	color:#eee;
+	padding:80px 0 80px 0;
+	background-image: url('img/background-sobre-mim.jpg');
+	background-position: center right;
+	background-repeat: no-repeat;
+}
+
+@media(max-width:1000px){
+	.sobre-mim{
+		background-size: cover;
+	}	
+}
