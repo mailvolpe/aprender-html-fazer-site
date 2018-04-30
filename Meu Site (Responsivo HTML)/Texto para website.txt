@@ -1,0 +1,53 @@
+Título
+Um caminho simples e prático para aprender programação.
+Cabeçalho
+Como consegui aprender programação e me tornei um profissional em menos de três meses estudando sozinho do zero.
+
+[VÍDEO]
+Formulário de cadastro de e-mail
+Insira seu e-mail para começar a aprender programação agora. 
+[FORMULÁRIO DE CADASTRO]
+Fique de boa, eu também odeio SPAM!
+
+---Seção de Texto (Porque?)
+Porque aprender programação? 
+
+Ao aprender programação você não fica sujeito à altos e baixos do mercado pois é uma atividade que independente da sua localização, sempre tem demanda e só tende a crescer no futuro. 
+
+Você é parte de uma comunidade que trata a todos com igualdade. Aprender programação é algo que todos os programadores fazem todos os dias.
+
+Não é preciso largar tudo e arriscar seu emprego atual para aprender programação porque você pode se dedicar somente nas horas vagas e começar no seu ritmo como freelancer ou criando soluções para seus amigos.
+
+Ao aprender programação você vai deixar de depender de outras pessoas para criar suas soluções tecnológicas. Seja para você ou para outras pessoas.
+
+---Seção de Texto (O Método)
+Técnica inovadora para aprender programação
+
+A maioria das tentativas para aprender programação falha principalmente porque os métodos tradicionais despejam muita informação sobre o estudante e depois esperam que ele se lembre de tudo na hora de programar. 
+
+A melhor forma de aprender programação é na prática, com projetos reais, fazendo sites e aplicativos que você possa utilizar de fato para ajudar a si mesmo e outras pessoas.
+
+-----Seção de Texto (Ser profissional)
+
+Aprender programação não basta.
+
+Aprender programação é importante para tirar do papel um projeto de site ou de aplicativo mas não é suficiente para desenvolver programas com qualidade e muito menos para te colocar no mercado de trabalho como profissional.
+
+Além de aprender programação você também vai aprender: 
+
+Usabilidade - Como as pessoas usam o que você faz. Como navegam, quanto tempo levam para realizar as ações, tudo isso conta.
+
+Negócio - Como levar em conta a lógica do negócio e saber analisar o todo para que suas soluções não criem mais problemas.
+
+Design - Entenda sobre tamanhos, cores e organização para ser capaz de programar telas apresentáveis e bem elaboradas.
+
+----Formulário de cadastro de e-mail
+Comece agora
+Comece agora a aprender programação com projetos reais. Insira seu e-mail e acesse a minha plataforma para começar a aprender programação agora.
+[FORMULARIO]
+
+----Seção de Texto (Sobre mim)
+Talvez a gente já se conheça. Sou veterano na comunidade de programação e trabalho desde 2008 com programação de sites e aplicativos para internet. Graduado em Programação pela Universidade do Sul de Santa Catarina. Também fiz cursos de comunicação, ensino e aprendizado na Argentina e de tecnologias voltadas para grandes corporações em escolas de computação como Impacta e outras em São Paulo.
+
+Tenho facilidade para ensinar e acredito que aprender programação não deveria ser uma tarefa chata, por isso decidir gravar estas aulas como se estivessemos sentados lado-a-lado. De qualquer forma, aprendemos todos os dias e estou apenas começando também
+
